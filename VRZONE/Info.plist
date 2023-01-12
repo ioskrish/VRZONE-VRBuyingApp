@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.1017804302421-1ko02k99p017mci8tuhqvni9olv5qkup</string>
+			</array>
+		</dict>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>LexendMega-Black.ttf</string>
+		<string>LexendMega-Bold.ttf</string>
+		<string>LexendMega-ExtraBold.ttf</string>
+		<string>LexendMega-ExtraLight.ttf</string>
+		<string>LexendMega-Light.ttf</string>
+		<string>LexendMega-Medium.ttf</string>
+		<string>LexendMega-Regular.ttf</string>
+		<string>LexendMega-SemiBold.ttf</string>
+		<string>LexendMega-Thin.ttf</string>
+		<string>Jura-Bold.ttf</string>
+		<string>Jura-SemiBold.ttf</string>
+		<string>Jura-Regular.ttf</string>
+		<string>Jura-Medium.ttf</string>
+		<string>Jura-Light.ttf</string>
+	</array>
+	<key>UIApplicationSceneManifest</key>
+	<dict>
+		<key>UIApplicationSupportsMultipleScenes</key>
+		<false/>
+		<key>UISceneConfigurations</key>
+		<dict>
+			<key>UIWindowSceneSessionRoleApplication</key>
+			<array>
+				<dict>
+					<key>UISceneConfigurationName</key>
+					<string>Default Configuration</string>
+					<key>UISceneDelegateClassName</key>
+					<string>$(PRODUCT_MODULE_NAME).SceneDelegate</string>
+					<key>UISceneStoryboardFile</key>
+					<string>Main</string>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>UIStatusBarStyle</key>
+	<string>UIStatusBarStyleLightContent</string>
+	<key>UIViewControllerBasedStatusBarAppearance</key>
+	<false/>
+</dict>
+</plist>
